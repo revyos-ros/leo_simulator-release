@@ -2,6 +2,19 @@
 Changelog for package leo_gz_plugins
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.0 (2024-04-27)
+------------------
+* Get rid of all the ignition references
+* Use gz vendor packages
+* Contributors: Błażej Sowa
+
+1.1.0 (2024-04-27)
+------------------
+* Update package dependencies
+* Fix build for Gazebo Harmonic
+* Set new GZ variables to work on Gazebo Harmonic
+* Contributors: Błażej Sowa
+
 1.0.0 (2023-11-08)
 ------------------
 * Fix warning about unused parameter

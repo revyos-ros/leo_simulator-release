@@ -1,3 +1,30 @@
+## leo_simulator (jazzy) - 2.0.0-2
+
+The packages in the `leo_simulator` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy leo_simulator --override-release-repository-push-url git@github.com:revyos-ros/leo_simulator-release.git` on `Sun, 29 Sep 2024 02:12:33 -0000`
+
+These packages were released:
+- `leo_gz_bringup`
+- `leo_gz_plugins`
+- `leo_gz_worlds`
+- `leo_simulator`
+
+Version of package(s) in repository `leo_simulator`:
+
+- upstream repository: https://github.com/LeoRover/leo_simulator-ros2.git
+- release repository: https://github.com/revyos-ros/leo_simulator-release.git
+- rosdistro version: `2.0.0-1`
+- old version: `2.0.0-1`
+- new version: `2.0.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## leo_simulator (jazzy) - 2.0.0-1
 
 The packages in the `leo_simulator` repository were released into the `jazzy` distro by running `/bin/bloom-release --rosdistro jazzy leo_simulator` on `Sat, 27 Apr 2024 21:46:55 -0000`
